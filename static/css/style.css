@@ -149,7 +149,10 @@ body {
 }
 
 
-
+.bi-heart{
+    outline: none;
+    text-decoration: none;
+}
 
 
 
