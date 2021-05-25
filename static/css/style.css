@@ -52,7 +52,7 @@ body {
 }
 
  .posts li .logo {
-    flex-basis: 20%;
+    flex-basis: 10%;
 }  
 
  .posts li .logo img {
@@ -63,7 +63,7 @@ body {
 }
 
 .posts li .name_body {
-    flex-basis: 80%;
+    flex-basis: 90%;
    
 }
 
