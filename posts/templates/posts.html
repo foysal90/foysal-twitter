@@ -14,6 +14,12 @@
   {% load cloudinary %}  
     
 <section class="content">
+  <div class="main">
+    <div class="main-header">
+        <img src="{% static 'img/tech.jpg' %}" width="80" height="80">
+        <h1>Twitter Clone</h1>
+    </div>
+
     <section class="post_form">
         <form action="/" method="POST" enctype="multipart/form-data"> 
             {% csrf_token %}
