@@ -41,6 +41,11 @@ body {
     align-items: center;
 }
 
+.main-header img{
+    border-radius: 50%;
+    background-color: white;
+}
+
 
  .post_form { 
      display: flex;
